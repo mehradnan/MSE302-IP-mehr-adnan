@@ -120,7 +120,7 @@ If you want, I can map these gaps to specific apps you’re considering and show
 
 summarize the main components of Cognitive Behavioral Therapy and explain which aspects translate effectively into digital tools for anxiety management.
 
-## reponse
+## response
 
 Main Components of Cognitive Behavioral Therapy (CBT)
 
@@ -194,7 +194,7 @@ Therapeutic Alliance & Accountability
 ## Prompt
 are the the issues found in user reviews (generic responses, poor crisis support) are also documented in recent articless about mental health apps.
 
-## Reponse
+## response
 Yes — many of the issues flagged in user reviews (e.g. generic / canned chatbot responses, weak crisis support, low personalization) are echoed in recent academic and peer-review literature. Below is a summary of how the literature documents these gaps, with illustrative findings and citations.
 
 Key Issues from Literature That Mirror User Reviews
@@ -380,7 +380,7 @@ Use the stricter rule whenever overlap occurs.
 
 Analyze reddit and tiktok about exam anxiety and summarize top five most common emotional or cognitive patterns students express.
 
-## reponse
+## response
 1. Fear of failure and perfectionism  
 2. Comparison with peers  
 3. Negative self-talk and catastrophizing  
