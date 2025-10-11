@@ -1,12 +1,12 @@
-##prompt
+## Prompt
 
 > give me the five most widely used mental-health or CBT-related apps globally. Include their focus areas, approximate downloads, and what type of intervention each provides.
 >
-##REPSONE
+## Response
 
->Thought for 1m 6s
+Thought for 1m 6s
 
->Here are 5 of the most widely used mental-health / CBT-related apps worldwide, with what they focus on, rough download scale, and the intervention type:
+Here are 5 of the most widely used mental-health / CBT-related apps worldwide, with what they focus on, rough download scale, and the intervention type:
 
 App	Primary focus areas	Approx. downloads*	Intervention type
 Calm	Mindfulness, stress, anxiety, sleep (Sleep Stories, breathwork)	50M+ (Android) 
