@@ -30,10 +30,10 @@ Google Play
 If you’d like, I can tailor this to CBT-only self-help tools (e.g., replace therapy platforms with apps like Woebot or MindShift CBT) or narrow by a specific use case like insomnia, panic, or mood tracking.
 
 
-##PROMPT
+## PROMPT
 >> Find reviews and studies, summarize the most common gaps users report in mental-health apps.
 >>
-##response
+## response
 > Here’s what reviews and studies most often flag as gaps in mental-health/CBT apps:
 
 Privacy, data sharing, and transparency
