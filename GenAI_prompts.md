@@ -381,11 +381,35 @@ Use the stricter rule whenever overlap occurs.
 Analyze reddit and tiktok about exam anxiety and summarize top five most common emotional or cognitive patterns students express.
 
 ## response
-1. Fear of failure and perfectionism  
-2. Comparison with peers  
-3. Negative self-talk and catastrophizing  
-4. Burnout and avoidance  
-5. Stigma toward seeking help  
+Here are the five patterns that show up over and over in Reddit threads and TikTok studies about exam anxiety:
+
+Catastrophic “fail = life over” thinking
+Students jump from “I might do poorly” to “I’ll fail out / lose my job / my future is ruined,” a classic catastrophizing loop. 
+Reddit
++1
+
+High arousal + somatic panic right before or during exams
+Reports of shaking, nausea, racing heart, chest tightness, and “impending doom” are common in hour-before or in-exam moments—often described as uncontrollable. 
+Reddit
++1
+
+Overwhelm → avoidance cycles (procrastination/doomscrolling)
+Students feel “drowning/overwhelmed,” then avoid study by scrolling or disengaging; TikTok can temporarily soothe but also fuels addictive use and upward social comparison that worsens stress. 
+Reddit
++1
+
+Reassurance-seeking and post-exam rumination
+After tests, many compulsively check answers, google questions, and rehash mistakes, spiking anxiety instead of resolving it. 
+Reddit
+
+Misinformation-shaped expectations and “quick fix” beliefs
+TikTok’s mental-health content is heavily anecdotal; studies and audits note high rates of misleading advice and oversimplified fixes, which can distort coping strategies around exam stress. 
+The Guardian
++2
+New York Post
++2
+
+If you want, I can turn these into a one-page worksheet that maps each pattern to a short CBT micro-skill (e.g., thought record for catastrophizing, paced breathing for high arousal, 5-minute “start ritual” for avoidance, post-exam rumination cap, and a quick credibility checklist for TikTok tips).
 
 
 ## Prompt
@@ -394,17 +418,122 @@ Rewrite this paragraph to improve flow and academic tone while keeping it concis
 “University students face escalating anxiety but limited access to affordable real-time support. Counsellors have high ratios and long waitlists. This impacts focus, GPA, and well-being.”
 
 **Response
-“University students are experiencing rising levels of academic anxiety and distorted thinking but have limited access to affordable, real-time mental-health support.  
- Campus counsellors manage ratios exceeding 1:1700 students, leading to weeks-long waitlists and delays in care.  
- Anxiety undermines concentration, academic performance, and retention, creating both personal and institutional strain.”  
-
+University students are experiencing rising levels of anxiety while facing limited access to timely and affordable mental health support. High counselor-to-student ratios and extended wait times further restrict care, negatively affecting academic performance, concentration, and overall well-being.
 
 ## Prmopt
 
 summarize this article:Haque & Rubya https://arxiv.org/abs/2209.07796 and extract quotes that describe why users find mental-health apps ineffective during crises.
 
 **Response  
- “App-embedded social features and chatbots were criticized for providing little support during crises.”   “Many user reviews described frustration with superficial feedback that felt generic or scripted.”
+Here’s a summary of Haque & Rubya (2022), “For an App Supposed to Make Its Users Feel Better, It Sure is a Joke” plus selected quotes about why users find mental-health apps ineffective during crises. 
+arXiv
++1
+
+Summary of Haque & Rubya (2022)
+
+Goal & Methodology
+
+The authors set out to explore real-life user experience of mobile mental health apps by analyzing user reviews in app stores, aiming to uncover the usability, design, and functional issues that drive dissatisfaction. 
+arXiv
++1
+
+They collected 2,159 reviews from 117 Android apps and 2,764 reviews from 76 iOS apps (filtered for length and recency). 
+arXiv
+
+They applied inductive thematic analysis to identify recurring user complaints and concerns. 
+arXiv
++1
+
+Key Findings
+The authors categorize their findings into themes such as:
+
+Inconsistent moderation and community support
+
+Users criticized lack of enforcement in community features, biased moderation, and removal of messages that may be cries for help. 
+arXiv
++1
+
+Limited or poor crisis / emergency or real-time assistance
+
+Many reviews pointed out that chatbots and social features provided little help in times of acute distress. 
+arXiv
++1
+
+The authors note the “lack of real-time and emergency assistance” as a systemic gap. 
+arXiv
++2
+arXiv
++2
+
+Unhelpful, repetitive, and non-personalized chatbot responses
+
+Chatbots often rely on preset questions, deliver templated answers, or lack contextual understanding, making them feel dismissive or patronizing. 
+arXiv
++2
+arXiv
++2
+
+Conversations may not persist (i.e. user messages get “lost” from conversation history). 
+arXiv
++1
+
+Transparency and information gaps
+
+Users complain about unclear differences between free vs paid features, lack of clarity about how therapists are matched or qualified, and how user data is used. 
+arXiv
++1
+
+Privacy and data protection practices are often not well explained. 
+arXiv
++1
+
+Usability, bugs, and app stability issues
+
+Problems like missing messages, confusing UI, crashes, or data loss are commonly reported, which reduce trust and continued use. 
+arXiv
++1
+
+Mismatch between expectations and actual functionality
+
+Some users report that the app seemed like it would give “live help,” but in practice, it behaves more like a static tool. 
+arXiv
++1
+
+In moments of crisis, users felt more frustrated when their needs were not met. 
+arXiv
++1
+
+The authors conclude with design recommendations: more robust crisis flows, better moderation, personalized responses, hybrid (human + AI) support, and standardized guidelines for mental health app developers. 
+arXiv
++1
+
+Selected Quotes on Crisis / Emergency Ineffectiveness
+
+Below are user review excerpts from the paper that illustrate the frustration with how mental health apps perform (or don’t) during crises:
+
+“when I post ‘I want to purge’ … it gets deleted. It actually makes the feeling of loneliness worse.” 
+arXiv
+
+“My therapist straight up told me this is not a chat room … I was under the impression that the app would give me help.” 
+arXiv
+
+“Some bots occasionally asked ‘preset questions’ that did not apply to many, ‘steamrolled users into a limited range of non-useful and non-personalized responses,’ acted ‘judgmental rather than self-affirming,’ advocated ‘only a single line of thought.’” 
+arXiv
+
+“I expected an AI but it seems preset questions … some of my conversations are completely lost, they don’t show in the journal.” 
+arXiv
+
+These quotes reflect user perceptions that:
+
+Their distress signals are censored or mishandled.
+
+The response is not responsive or context-aware.
+
+The bot treats users superficially, in a way that can be dismissive.
+
+Conversation continuity is lost, undermining trust and usability.
+
+If you want, I can also pull more recent literature (2023–2025) to see whether these crisis-support gaps persist, or compare across different app types (e.g. pure CBT vs therapy marketplace). Do you want me to do that?
 
 
 
