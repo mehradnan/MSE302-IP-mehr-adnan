@@ -35,6 +35,6 @@
    *Used for:* Ethical AI Usage.  
    *Purpose:* Established confidentiality requirements for potential digital-health applications. Cited to demonstrate compliance considerations for ethical AI review.
 
-10. [**Reddit)**](https://www.reddit.com/r/Anxiety/)   
+10. [**Reddit**](https://www.reddit.com/r/Anxiety/)   
     *Purpose:* Source for thematic analysis of user discussions on exam stress and stigma. Posts were coded using AI-assisted thematic clustering and summarized in `MSE302-IP-mehr-adnan/Reddit+tiktok.md`.
 
