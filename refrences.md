@@ -32,10 +32,9 @@
    *Purpose:* Guided the application of privacy-by-design principles in AI systems. Referenced when outlining ethical design standards for data security in conceptual solutions.
 
 9. [**HIPAA (2013)**](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html)  
-   *Used in:* Ethical AI Usage section.  
+   *Used for:* Ethical AI Usage.  
    *Purpose:* Established confidentiality requirements for potential digital-health applications. Cited to demonstrate compliance considerations for ethical AI review.
 
-10. [**Reddit (2023)**](https://www.reddit.com/r/Anxiety/)  
-    *Used in:* Information Gathering Process (Social-Media Analysis).  
-    *Purpose:* Source for thematic analysis of user discussions on exam stress and stigma. Posts were coded using AI-assisted thematic clustering and summarized in `/data/SocialMediaSources.md`.
+10. [**Reddit (2023)**](https://www.reddit.com/r/Anxiety/)   
+    *Purpose:* Source for thematic analysis of user discussions on exam stress and stigma. Posts were coded using AI-assisted thematic clustering and summarized in `MSE302-IP-mehr-adnan/Reddit+tiktok.md`.
 
