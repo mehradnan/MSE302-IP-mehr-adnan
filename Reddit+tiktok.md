@@ -1,9 +1,20 @@
 ## Social Media Sources
-- Reddit: [r/Anxiety – “How do you calm down before exams?”](https://www.reddit.com/r/Anxiety/comments/1bn4fz1/how_do_you_calm_down_before_exams/)
-- Reddit: [r/college – “I’m so burnt out, I can’t even study.”](https://www.reddit.com/r/college/comments/11ltgj3/im_so_burnt_out_i_cant_even_study/)
-- Reddit: [r/GetStudying – “How do you stop comparing yourself to classmates?”](https://www.reddit.com/r/GetStudying/comments/1axd3v5/how_do_you_stop_comparing_yourself_to_classmates/)
-- Reddit: [r/Anxiety – “Anyone else feel like a failure?”](https://www.reddit.com/r/Anxiety/comments/15b6flx/anyone_else_feel_like_a_failure/)
-- Reddit: [r/MentalHealth – “Why do I feel ashamed of needing therapy?”](https://www.reddit.com/r/mentalhealth/comments/1b5j3z8/why_do_i_feel_ashamed_of_needing_therapy/)
+
+> Reddit user. (2023, October 10). *I’m so burnt out, I can’t even study* [Online forum post]. *r/college.* Reddit.  
+> [https://www.reddit.com/r/college/s/LfpJcCK4fI](https://www.reddit.com/r/college/s/LfpJcCK4fI)
+
+> Reddit user. (2023, October 10). *Engineering workload is destroying me* [Online forum post]. *r/EngineeringStudents.* Reddit.  
+> [https://www.reddit.com/r/EngineeringStudents/s/lscxQxvE6T](https://www.reddit.com/r/EngineeringStudents/s/lscxQxvE6T)
+
+> Reddit user. (2023, October 10). *Indian students and exam anxiety* [Online forum post]. *r/IndianTeenagers.* Reddit.  
+> [https://www.reddit.com/r/IndianTeenagers/s/tFrm9UfqX7](https://www.reddit.com/r/IndianTeenagers/s/tFrm9UfqX7)
+
+> Reddit user. (2023, October 10). *How do you calm yourself when anxiety hits?* [Online forum post]. *r/Anxiety.* Reddit.  
+> [https://www.reddit.com/r/Anxiety/s/YwayfFnQLZ](https://www.reddit.com/r/Anxiety/s/YwayfFnQLZ)
+
+> Reddit user. (2023, October 10). *How do you manage stress in your 30s?* [Online forum post]. *r/AskMenOver30.* Reddit.  
+> [https://www.reddit.com/r/AskMenOver30/s/FwENlRpGTs](https://www.reddit.com/r/AskMenOver30/s/FwENlRpGTs)
+
 - TikTok: [#ExamAnxiety](https://www.tiktok.com/tag/examanxiety)
 - TikTok: [#Overthinking](https://www.tiktok.com/tag/overthinking)
 - TikTok: [#CollegeBurnout](https://www.tiktok.com/tag/collegeburnout)
