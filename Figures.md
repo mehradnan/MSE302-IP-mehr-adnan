@@ -1,0 +1,3 @@
+- Figure 1: Derived from secondary research on behavioral feedback loops.
+- Figure 2: Adapted from Lecture 6 (Problem Framing) scoping technique.
+- Tables 1–2: Compiled from benchmarking and literature findings.
